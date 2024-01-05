@@ -1,0 +1,1 @@
+this project was created to study spring batch basics concepts, it load about 10k users from a csv file into a postgresql db when a post request is triggered, i utilized springbatch, postgresql and docker for the implementation of this project
